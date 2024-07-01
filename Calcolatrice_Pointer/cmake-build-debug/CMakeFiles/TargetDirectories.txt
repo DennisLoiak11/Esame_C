@@ -1,0 +1,3 @@
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Calcolatrice_Pointer/cmake-build-debug/CMakeFiles/Calcolatrice_Pointer.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Calcolatrice_Pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Calcolatrice_Pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Array_mediaSomma/cmake-build-debug/CMakeFiles/Array_mediaSomma.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Array_mediaSomma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/Array_mediaSomma/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/BubbleSort_Swap/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/BubbleSort_Swap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dennisdebiasi/Desktop/Esercizi_Esame/BubbleSort_Swap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
